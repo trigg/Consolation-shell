@@ -40,4 +40,4 @@ Future and hopes:
 - - List Applications, Categories
 - Settings
 - - Allow changing of both Consolation and shell config from gui
-- Work out how too catch attempted re-runs and alert the already running instance
+- Work out how to catch attempted re-runs and alert the already running instance
